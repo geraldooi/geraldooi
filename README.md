@@ -1,8 +1,9 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Gerald Ooi!
+---
+Welcome to my GitHub Profile. I'm from Malaysia, living in Selangor and currently working as a Software Engineer
 
-Welcome to my GitHub Profile! My name is Gerald Ooi. A Software Engineer from Malaysia, living in Selangor.
-
-## 🧰Toolbox
+### 🧰 Toolbox
+---
 
 
 <!--
