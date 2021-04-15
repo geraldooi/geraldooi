@@ -1,8 +1,8 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gerald Ooi!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-A Software Engineer specializing in Big Data & Machine Learning. I'm from Malaysia, living in Selangor and currently working at Postpay Sdn Bhd. I'm opening on learning new things.
+Welcome to my GitHub Profile! My name is Gerald Ooi. A Software Engineer from Malaysia, living in Selangor.
 
-### 🧰Toolbox
+## 🧰Toolbox
 
 
 <!--
