@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gerald Ooi!
+
+A Software Engineer specializing in Big Data & Machine Learning. I'm from Malaysia, living in Selangor and currently working at Postpay Sdn Bhd.
 
 <!--
 **geraldooi/geraldooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
