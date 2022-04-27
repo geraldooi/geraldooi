@@ -1,12 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Gerald Ooi!
----
-Welcome to my GitHub Profile. I'm from Malaysia, living in Selangor and currently working as a Software Engineer.
-
-### 🧰 Toolbox
-<img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' alt='aws' width='50' height='50'> </img>
-<img src='https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg' alt='hive' width='50' height='50'> </img>
-<img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='jupyter' width='50' height='50'> </img>
-<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='python' width='50' height='50'> </img>
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **geraldooi/geraldooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
